@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "D/oX6BRkciX4/DDGu7icvyfbq1G9pzYDlumkvTOWLuF4dFEBJFD+tRegBZeG73Eu3BWAVJDLbwz66VCJH1RrCQ==",
+  "success": true,
+  "projectFilePath": "C:\\Architecture\\PSGWealth\\SmartphonePhinder\\SmartphonePhinder.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\A240571\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512",
+    "C:\\Users\\A240571\\.nuget\\packages\\restsharp\\108.0.3\\restsharp.108.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
